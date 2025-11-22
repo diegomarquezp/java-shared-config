@@ -1,4 +1,4 @@
-# Google Cloud Shared Build Configs
+# Google Cloud Shared Build Configs - release candidate
 
 Shared Maven build configuration for Google Cloud Java client libraries.
 This is not intended for library users.
