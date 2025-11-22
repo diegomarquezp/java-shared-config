@@ -6,3 +6,9 @@ branches:
   handleGHRelease: true
   releaseType: java-yoshi
   branch: java7
+- bumpMinorPreMajor: true
+  handleGHRelease: true
+  releaseType: java-yoshi
+  prereleaseType: rc
+  prerelease: true
+  branch: protobuf-4.x-rc
